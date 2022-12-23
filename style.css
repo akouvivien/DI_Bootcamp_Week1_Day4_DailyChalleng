@@ -1,0 +1,44 @@
+body {
+    padding: 20px ;
+}
+
+.left-container {
+    align-items: center;
+    background-color:rgb(235, 233, 233);
+    border: 1px solid gray;
+    border-radius: 5%;
+    padding: 25px;
+}
+
+
+
+input, button {
+    width: 80%;
+}
+
+table {
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+ul {
+    list-style: none;
+    color:#0652DD;
+}
+
+h3 {
+    font-size: 15px;
+    color: #CCC;
+    padding-left: 10px;
+}
+.space1{
+    margin-top: 10px;
+}
+
+.space2{
+    margin-top: 40px;
+}
+
+.space3{
+    margin-top: 5px;
+}
